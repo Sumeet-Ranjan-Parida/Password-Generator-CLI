@@ -1,2 +1,2 @@
-A Command-Line-Interface (CLI) Password Generator. It generates password for the given length.
+A Command-Line-Interface (CLI) Password Generator. It generates random password for the given length.
 
